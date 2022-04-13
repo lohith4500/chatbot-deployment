@@ -1,1 +1,4 @@
-pip install twilio flask requests Flask torch torchvision nltk numpy
+step1:- cd chatbot-deployment
+step2:- python -m venv venv
+step3:- venv\Scripts\activate
+step4:- pip install twilio flask requests Flask torch torchvision nltk numpy
