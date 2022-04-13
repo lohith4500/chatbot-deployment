@@ -1,0 +1,1 @@
+pip install twilio flask requests Flask torch torchvision nltk numpy
